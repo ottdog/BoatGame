@@ -27,16 +27,16 @@
 
 ## Unit Specific
 Fighter squadrons
-  *Deployed as scout
-    -
-  *Deployed as escort
+  * Deployed as scout
+    - Direction priority
+  * Deployed as escort
     - Break off below damage threshold
     - Keep fighting
-  *Deployed as Commbat Air Patrol
+  * Deployed as Commbat Air Patrol
   
 Bomeber Squadrons
-  *Deployed as scout
-  *On attack
+  * Deployed as scout
+  * On attack
     - Retreat below damage threshold
     - Drop bomb and retreat
     - Kamikaze
