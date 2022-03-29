@@ -16,10 +16,10 @@ The way most existing MMORTS games function creates a snowball effect. Players w
 The algorithms to determine the outcome of battles in games like Starborne or Grepolis usually come down to how many units the two players have and maybe some RNG. Grepolis might use an abstraction like three damage types that units could inflict or Starborne might let you choose one of three possible fleet formations, but ultamately these end up resolving to one extra layer of RNG via a match of rock, paper, scissors. All the server cares about in the end is how many of what units are there.
 
 ## Full Sandbox
-The existing MMORTS games have gone full sandbox with regards to alliance formation. Letting players choose their own groups doesn't often lead to balanced teams. In addition, they rely heavily on the players to make most of the interesting engagments themselves. While I think player driven content is cool, there needs to be ***NEED TO FINISH***
+The existing MMORTS games have gone full sandbox with regards to alliance formation. Letting players choose their own groups doesn't often lead to balanced teams. In addition, they rely heavily on the players to make all of the interesting engagments themselves. While I think player driven content is cool, there needs to be *some* objective for 'lone wolf' players or something for teams to work towrds off peak hours. A game that requires other players dies when there are fewer players playing than it was designed for.
 
 ## Not Good for a Small Number of Players
-In terms of content, the "meat" of the experience of existing MMORTS depends on having other players to coordinate with and compete against.  ***NEED TO FINISH***
+In terms of content, the "meat" of the experience of existing MMORTS depends on having other players to coordinate with and compete against. This is somthing I like about them. But with that said, that's the only content really abailable in existing MMORTS games. Existing games are designed arould alliances of dozens (or in extreme cases, hundreds) of players. There are solo MMORPG players and MMORPG players that prefer playing in a small group of known friends. MMORPG's usually do a good job of catering to those players too. Why can't the MMORTS genre?
 
 # Design Axioms
 ## No pay for advantage
