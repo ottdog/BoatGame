@@ -4,7 +4,7 @@ This is the elephant in the room, so I might as well address this first. In my p
 
 The long term MMORTS genre has been hit harder than others. While popular genreas like first person shooters or MMORPG's have many ways to monetize without affecting competitive gameplay (experience boosters, cosmetics, and the like), the MMORTS genere is too niche to have the capital to justify selling things like unit reskins. It is also too niche to attract a sizable player base with a traditional one time payment or subscription model. This leaves gameplay advantages as a the main monetization route.
 
-Existing MMORTS games will sell items as convienences and justify it as not pay to win because it *** NEED TO FINISH ***
+Existing MMORTS games will sell items as convienences and justify it as 'not pay to win' because it's something a dedicated player can do on their own. ***NEED TO FINISH***
 
 ## Unhealthy expected time investment
 Existing MMORTS games also use **need to finish**
