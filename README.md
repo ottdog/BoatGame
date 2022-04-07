@@ -6,11 +6,17 @@ The long term MMORTS genre has been hit harder than others. While popular genrea
 
 Existing MMORTS games will sell items as convienences and justify it as 'not pay to win' because it's something a dedicated player can do on their own. ***NEED TO FINISH***
 
-## Unhealthy expected time investment
-Existing MMORTS games also use **need to finish**
-
 ## Snowballing
 The way most existing MMORTS games function creates a snowball effect. Players who start early have more time to get resources. players who start building first have more units in the first battles, players with more units win the first battles, usually losing fewer resources worth of units. Players that upgrade resource buildings first get more time with the production bonus, so more bonus resources. Players who come in later or lose a few key battles in the beggining are just left at a disadvantage, even with perfecct play. Which players/alliances are relevant is ususally decided within a week or two.
+
+## Unhealthy expected time investment
+Existing MMORTS games also use mechanics that encourage players to log in as often as possible and stay logged in as long as possible. 
+
+As an example of one such mechanic, it is genre conventions to give a player warning when there is an incoming attack. When player cities/bases are at stake, the incentive is to notice the attack as soon as possible to avoid losing your base. Because reinforicng units from allies travel in real time, noticing an attack sooner effectively increases the radius that players can call for help from. This mechanic alone becomes the source of stressful mind games, with many player made guides not just instrucing players to learn the log in patterns of their enemies to know the best time to attack, but also instucting them to occasionally log in and do tasks at times that are inconvienent for them to make it harder for other players to figure out your login schedule.
+
+Other mechanics that force players to stay logged on include Grepolis' village tribute mechanics (where you get more total resources if you demand tribute every five minutes than if you were to do so less frequently) and Starborne's solar flare mechanic (limited time resource drop on the map that players that notice sooner can take from multiple times or take from flares further away). These mechanics also contribute to the resource snowballing.
+
+While not an explicit mechanic, the goals of alliances in these games require coordination which also leads to alliance cultures that pressure players to be as available as possible, preferably keeping the game always running if possible.
 
 ## Resolves Into Raw Number Game
 The algorithms to determine the outcome of battles in games like Starborne or Grepolis usually come down to how many units the two players have and maybe some RNG. Grepolis might use an abstraction like three damage types that units could inflict or Starborne might let you choose one of three possible fleet formations, but ultamately these end up resolving to one extra layer of RNG via a match of rock, paper, scissors. All the server cares about in the end is how many of what units are there.
