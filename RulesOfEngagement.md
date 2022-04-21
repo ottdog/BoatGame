@@ -1,28 +1,34 @@
+"Rules of Engagement" will be behaviors players can command their fleets to engage in if they encounter an enemy fleet. 
+
+
+
 ## Fleet level
-* detection of enemy fleet
+* detection of enemy surface fleet
   - Ignore
-  - Report
   - Move into effective range
   - Engage
   - Retreat to port
 * fleet within effective range
   - Ignore
-  - Report
   - Engage
   - Retreat to port
 * taking fire
   - Ignore
   - Engage
   - Retreat to port
-* under strength threshold
+* under specified strength threshold
   - Ignore
   - Keep fighting
   - Retreat to port
 * enemy retreat
   - Ignore
-  - Disengage
+  - Rescue surviors
   - Persue
   - Return to port
+* enemy defeat
+  - Ignore
+  - Return to port
+  - Rescue survivors
 
 
 ## Unit Specific
