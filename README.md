@@ -27,7 +27,7 @@ The existing MMORTS games have gone full sandbox with regards to alliance format
 ## Not Good for a Small Number of Players
 In terms of content, the "meat" of the experience of existing MMORTS depends on having other players to coordinate with and compete against. This is somthing I like about them. But with that said, that's the only content really abailable in existing MMORTS games. Existing games are designed arould alliances of dozens (or in extreme cases, hundreds) of players. There are solo MMORPG players and MMORPG players that prefer playing in a small group of known friends. MMORPG's usually do a good job of catering to those players too. Why can't the MMORTS genre?
 
-# Design Axioms
+# Design Wishlist
 ## No pay for advantage
 Players cannot be able to puchase an advantage over other players.
 
@@ -38,4 +38,4 @@ A losing team must be able to come back from a loss *in a way that's satsifying 
 Instead of the outcome of the battle coming down to the quantity of units and maybe an RNG element, I would like multiple other factors to be at play in a battle. At this stage I plan on positioning, equipment, and rules of engagement weigh in on the battle.
 
 ## Life freindly
-
+Games are supposed to be fun. Even thouogh a game is supposed to take place over weeks, the game shouldn't get in the way of work, academics, or sleep. 
