@@ -2,6 +2,7 @@
 
   - Modules and module damage
   - Weapon Customization
+  - Salvage
   - Survivor rescue
   - Flares
 
