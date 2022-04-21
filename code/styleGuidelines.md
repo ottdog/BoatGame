@@ -22,7 +22,7 @@ seperate methods of similar functionality, like below:
   5. If a control statmement (if, for, while, etc) only has one line in the braces, you may compress
 it to one line like below:
 ```java
-if (onFire) {extingquish;}
+if (onFire) {extingquish();}
 
 for (int i = 0; i < shipCount; i++) {ships[i].printStatus();}
 ```
