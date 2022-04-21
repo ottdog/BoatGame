@@ -25,7 +25,8 @@ If you'd like to help with development, here are some things you could do:
 1. Join our discord: https://discord.gg/fFDyuByQSX
 2. Fork the project and do some coding
 3. Submit bug reports through Git Hub
-4. Design art assets
-5. If you have some other way to help, I'm all ears. Just join the discord and explain.
+4. Join the discord and help with game design
+5. Design art assets
+6. If you have some other way to help, I'm all ears. Just join the discord and explain.
 
 Please read our code of conduct before contributing. 
