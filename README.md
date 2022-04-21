@@ -12,11 +12,12 @@ two fictional alliances win their war for global domination.
 
 As an Admiral, you'll be able to design and customize your own boats and submit orders to your higher ups for them. Unlike
 other strategy games, you aren't in charge of tedious resource management. You just put in requests for boats, put your
-boats into taskforces, 
+boats into taskforces, and send them on missions. You can give your boats certain rules of engagement on their missions 
+to customize how your fleet will react to threats. 
 
 ## How to play
 
-Right now you can't. Sorry.
+Right now you can't. Sorry :(
 
 ## How to help out
 
