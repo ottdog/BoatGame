@@ -1,11 +1,11 @@
-##Under Consideration
+## Under Consideration
 
   - Modules and module damage
   - Weapon Customization
   - Survivor rescue
   - Flares
 
-##To Design
+## To Design
 
   - Basic boats/fleet mechancis
   - Game world/objectives
@@ -20,8 +20,8 @@
   - Scouting
   - Ports
 
-##To Implement
+## To Implement
 
-##To Test
+## To Test
 
-##Done
+## Done
