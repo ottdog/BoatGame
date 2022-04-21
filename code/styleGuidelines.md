@@ -4,7 +4,8 @@
 
 This policy might change in the future, but it remains for now.
 
-It is reccomended that you follow [these Java conventions] with the following modifications:
+It is reccomended that you follow [these Java conventions](https://www.oracle.com/technetwork/java/codeconventions-150003.pdf) 
+with the following modifications:
   1. Tab is to be set to 4 spaces and to be used as the standard indent. Wherever the manual says to use
 8 spaces, use two tabs. 
   2. Maximum line length is to be capped at 100 characters, including whitespae
