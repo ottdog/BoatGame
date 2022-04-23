@@ -26,7 +26,13 @@ if (onFire) {extingquish();}
 
 for (int i = 0; i < shipCount; i++) {ships[i].printStatus();}
 ```
-  6. The point is to prioritize readability, so you may stray from these guidelines if you believe
+  6. Point 5 applies to trivial setters and getters too. For trivial methods, put whatever space 
+between them looks the cleanest,
+```java
+public void getHealth(){return health;}
+public void takeDamage(int d){health -= d;}
+```
+  7. The point is to prioritize readability, so you may stray from these guidelines if you believe
 it improves readability. Code style will be reviewed before a merge is accepted. 
 
 ## Client-Side guidelines
