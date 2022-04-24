@@ -26,8 +26,9 @@ if (onFire) {extingquish();}
 
 for (int i = 0; i < shipCount; i++) {ships[i].printStatus();}
 ```
-  6. Point 5 applies to trivial setters and getters too. For trivial methods, put whatever space 
-between them looks the cleanest,
+  6. Point 5 applies to trivial setters and getters too. For methods written like below, use whatever 
+spaceing between them and other methods look the cleanest. Keep methods written like below together
+if they have similar functionality.
 ```java
 public void getHealth(){return health;}
 public void takeDamage(int d){health -= d;}
