@@ -16,6 +16,7 @@
     - Curisers
     - Destroyers
     - Frigates
+    - Submarines
   - Rules of Engagement
   - Combat system
   - Scouting
