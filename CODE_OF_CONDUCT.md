@@ -25,5 +25,5 @@ that isn't always online. Because of this, there might be a delay of hours or da
 Punsihments will be by Ottdog's discretion. They will range from a warning for minor assholery to permanent bans from the comunity
 for severe assholery. 
 
-Report rule breaking behavior to @Ottdog#1688 on discord (preffered method) or ottod66@gmail.com (slower method, please start the
+Report rule breaking behavior to @Ottdog#1688 on [our Discord](https://discord.gg/fFDyuByQSX) (preffered method) or ottod66@gmail.com (slower method, please start the
 subject line with "Boat Game"). 
