@@ -11,7 +11,7 @@ with the following modifications:
   2. Maximum line length is to be capped at 100 characters, including whitespae
   3. Use two lines between methods
   4. If you think it would improve readability, include a coment line of '=' with a section title to 
-seperate methods of similar functionality, like below:
+seperate groups of methods with similar functionality, like below:
 ```java
 //============ Setters and getters =============
 
